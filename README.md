@@ -1,1 +1,3 @@
-# Production d
+# maven-project
+
+Simple Maven Project
